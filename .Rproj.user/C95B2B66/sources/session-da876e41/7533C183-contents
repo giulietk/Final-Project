@@ -1,0 +1,11 @@
+---
+title: "Finak Project"
+author: "Giuliet Kibler"
+description: "Pre-Covid American Dietary Intention and B Vitamins"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+
+## 
