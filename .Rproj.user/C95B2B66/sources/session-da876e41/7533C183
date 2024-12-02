@@ -3,7 +3,7 @@
     "path": "~/Desktop/Final-Project/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2875782146",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1733163135055.0,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "198:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1733163413,
+    "lastKnownWriteTime": 1733163899,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1733163413608,
+    "last_content_update": 1733163899906,
     "read_only": false,
     "read_only_alternatives": []
 }
